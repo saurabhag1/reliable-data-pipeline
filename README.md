@@ -26,7 +26,7 @@ cd frontend/dashboard
 npm install
 npm start
 
-
+```
 ### Backend
 ```bash
 cd backend
