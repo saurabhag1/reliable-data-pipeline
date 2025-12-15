@@ -21,6 +21,7 @@ Fetch → Transform → Store → Monitor → Display
 ## Setup Instructions
 
 ### FrontEnd
+```bash
 cd frontend/dashboard
 npm install
 npm start
